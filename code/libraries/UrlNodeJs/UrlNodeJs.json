@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Url library",
+    "name": "UrlNodeJs",
+    "version": 10,
+    "visibility": "system"
+}
