@@ -1,0 +1,30 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services",
+        "Devices",
+        "Edges",
+        "Roles",
+        "Users"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' Url library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform"
+    ],
+    "license": "MIT",
+    "name": "UrlNodeJs",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
