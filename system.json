@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Partial Implementation of NodeJs' Url library",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "UrlNodeJs",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "be8a99be0bd2ce8a9ea5cf88e7c301",
+    "system_secret": ""
+}
