@@ -1,30 +1,42 @@
 {
     "asset_types": [
         "Code Libraries",
-        "Code Services",
-        "Devices",
-        "Edges",
-        "Roles",
-        "Users"
+        "Code Services"
     ],
     "author": {
-        "email": "corenodejs@clearblade.com"
+        "email": "yjain@clearblade.com",
+        "name": "Yash Jain"
     },
     "clouds": [],
     "description": "Partial Implementation of NodeJs' Url library",
     "domains": [],
     "gateways": [],
     "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
-    "keywords": [
+     "keywords": [
         "clearblade",
         "iot",
-        "platform"
+        "platform",
+        "url",
+        "node",
+        "js",
+        "core",
+        "library"
     ],
     "license": "MIT",
     "name": "UrlNodeJs",
     "private": false,
-    "prog_lang": [],
+    "prog_lang": [
+        "javascript"
+    ],
     "protocols": [],
     "things": [],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjain28/UrlNodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashjain28/UrlNodeJs/issues"
+  },
+  "homepage": "https://github.com/yashjain28/UrlNodeJs#readme"
 }
